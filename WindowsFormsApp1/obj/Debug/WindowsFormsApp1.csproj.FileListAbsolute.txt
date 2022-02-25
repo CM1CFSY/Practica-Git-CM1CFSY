@@ -1,0 +1,10 @@
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\carol\Source\Repos\CM1CFSY\Practica-Git-CM1CFSY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
